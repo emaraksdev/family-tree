@@ -1,0 +1,13 @@
+FTREE 1
+
+[metadata]
+name=Smith Family
+created=2026-07-23
+
+[people]
+
+id=1
+name=alice
+birth=2022-12-19
+death=
+gender=F
